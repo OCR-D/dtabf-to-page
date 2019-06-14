@@ -9,3 +9,7 @@ Create PAGE-XML Ground Truth from DTABf TEI
   * text
   * font info
   * region classes
+  
+## Prior Work
+
+https://github.com/jbaiter/archiscribe
